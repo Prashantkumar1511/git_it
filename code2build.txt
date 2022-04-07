@@ -1,1 +1,0 @@
-code a project and use git to amange teams,it shoul be a game
